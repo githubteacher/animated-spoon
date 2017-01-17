@@ -1,13 +1,13 @@
 # Saint Cloud, MN
 
 ### Restraunts to visit
-Val's hamburgers
+- Val's hamburgers
 
 ### Places
-Quary Park
-The Press
-SCSU  
+- Quary Park
+- The Press
+ -SCSU  
 
 ### Sports
-Rox
-Riverside Park - disc golf
+- Rox
+- Riverside Park - disc golf
