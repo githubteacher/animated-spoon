@@ -7,17 +7,20 @@
 - Fast Food
   - Dairy Queen
   - Taco Bell
-  - Hardee's 
+  - Hardee's
   - Subway
   - McDonald's
+  - White Castle
 
 ### Natural Places
 - St. Croix State Park
+- Grindstone River
 
 ### Man-made Places
 - Hinckley Fire Musuem
+- Grand Casino
 
 ### Schools
 - Hinckley Elementry School (K-6)
-- Finlayson Elementry School (K-6) 
+- Finlayson Elementry School (K-6)
 - Hinckley-Finlayson High School (7-12)
