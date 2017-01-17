@@ -11,4 +11,6 @@
 ### Man-made Places
 - Gatorland
 - Disney World
+  - Space Mountain is a must!
+  - Drinking Around the World at EPCOT is my favorite "ride"
 - Universal Orlando
