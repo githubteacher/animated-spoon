@@ -1,8 +1,9 @@
 # Orlando, FL
 
 ### Restaurants to Visit
-- The Pharmacyssdfasfasfla
+- The Pharmacy
 - Rocco's Tacos
+- The Tiki Room at The Polynesian Hotel
 
 ### Natural Places
 - Payne's Praire is a drive way, but a beautiful place
