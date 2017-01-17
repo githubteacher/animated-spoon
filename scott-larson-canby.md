@@ -8,3 +8,6 @@
 - Canby National Golf and Yacht Club
 - Central Park
 - Historic Canby Theater
+
+### Schools
+- Canby High School

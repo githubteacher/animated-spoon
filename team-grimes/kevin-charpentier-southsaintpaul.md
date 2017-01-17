@@ -9,4 +9,5 @@
 ### Stores
  - Level Up
  - The Hitching Post
+ - Another store
  
