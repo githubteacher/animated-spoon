@@ -6,8 +6,9 @@
 ### Places
 - Quary Park
 - The Press
- -SCSU  
+- SCSU  
 
 ### Sports
 - Rox
-- Riverside Park - disc golf
+- Riverside Park - disc golf (Championship level course)
+- SCSU Hockey
