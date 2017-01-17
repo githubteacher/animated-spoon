@@ -8,6 +8,8 @@
 ## Schools
 1.  Prior Lake High School
 2.  Five Hawks Elementary
+3.  West Wood Elementary
+4.  Some Junior High
 
 ## Companies
 1.  Prior Lake State Bank
