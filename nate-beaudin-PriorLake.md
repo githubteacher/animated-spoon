@@ -10,3 +10,5 @@
 2.  Five Hawks Elementary
 
 ## Companies
+1.  Prior Lake State Bank
+2.  Prior Lake Aggregates, Inc.
