@@ -13,4 +13,11 @@
 ### Man-made Places
 1) St. Peter's Catholic Church
 2) Forest Lake Senior High
+3) Castlewood Golf Course
+4) Tanners Brook Golf Course
+
+### Cities Near Forest Lake
+1) Wyoming
+2) Hugo
+3) Scandia
 
