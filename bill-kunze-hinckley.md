@@ -4,6 +4,8 @@
 - Sit down
   - Tobies
   - Cassidy's
+  - FireStorm Cafe
+  
 - Fast Food
   - Dairy Queen
   - Taco Bell
