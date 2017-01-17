@@ -13,8 +13,11 @@
 ### Man-made Places
 1) St. Peter's Catholic Church
 2) Forest Lake Senior High
-3) Castlewood Golf Course
-4) Tanners Brook Golf Course
+
+### Forest Lake Golf Courses
+1) Castlewood Golf Course
+2) Tanners Brook Golf Course
+3) Forest Hills Golf Club (private)
 
 ### Cities Near Forest Lake
 1) Wyoming
