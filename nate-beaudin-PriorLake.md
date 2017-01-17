@@ -9,7 +9,7 @@
 1.  Prior Lake High School
 2.  Five Hawks Elementary
 3.  West Wood Elementary
-4.  Some Junior High
+4.  Hidden Oaks Middle School
 
 ## Companies
 1.  Prior Lake State Bank
